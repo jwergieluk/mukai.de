@@ -10,5 +10,6 @@ tags:
 
 ![Konzerflyer](/images/20170819-20-kagoshima-konzerte.jpg)
 
-Zeit: 19. und 20. August 2017
-Ort: Kagoshima, Japan
+Am 19. und 20. August 2017.
+
+Veranstaltungsort: Kagoshima, Japan
