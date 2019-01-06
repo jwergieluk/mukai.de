@@ -17,7 +17,7 @@ Lissi-Kaeser-Str. 7 \\
 ### Kontakt:
 
 Telefon: +49 15151877237 \\
-E-Mail: image:img/email.png[]
+E-Mail: ![](/images/email.png)
 
 ###  Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 

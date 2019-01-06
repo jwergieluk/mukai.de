@@ -21,3 +21,13 @@ Teilnehmerzahl kann ein Konzertsaal dafür gemietet werden.
 Wenn Sie mit der Idee spielen, ein eigenes Instrument zu kaufen, kann ich Sie
 gerne auch dabei beraten.
 
+## [Preisliste](/pdf/mukai-preisliste-2015.pdf)
+
+## Mein Flügel
+
+### Yamaha GB 1 (Baujahr 2011)
+
+![](/images/klavierunterricht-2.jpg)
+
+![](/images/klavierunterricht-1.jpg)
+

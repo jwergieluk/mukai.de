@@ -10,9 +10,8 @@ Kazumitsu Nakajima. Danach unterrichtete sie 4 Jahre lang an der Yamaha
 Musikschule in Kagoshima. Im Mai 2004 kam sie nach Wien. Sie erhielt den
 Unterricht von Prof. Norman Shetler und ab Oktober 2004 studierte sie
 Klavierkonzertfach an der Anton Bruckner Privatuniversität in Linz. In 2008
-schloss sie ihr Bachelorstudium bei
-link:http://www.johannesmarian.com/de/index.html[Prof. Johannes Marian] mit
-Auszeichnung ab. Darauf folgte in 2011 der Masterstudiumabschluss bei Prof.
+schloss sie ihr Bachelorstudium bei [Prof. Johannes Marian](http://www.johannesmarian.com/de/index.html) 
+mit Auszeichnung ab. Darauf folgte in 2011 der Masterstudiumabschluss bei Prof.
 Till Alexander Körber, ebenfalls mit Auszeichnung.
 
 Außerdem war sie zwischen 2004 und 2011 als Vokalbegleiterin und
@@ -28,3 +27,7 @@ Zeitgenössischen Klaviermusik und der „Summer School Klavier“ im Schloss
 Weinberg. Konzerte in Österreich, Deutschland, Polen und Japan.
 
 Seit September 2015 lebt sie in München.
+
+![Rie Mukai](/images/bio-rie-mukai-1.jpg)
+
+![Rie Mukai](/images/bio-klaviergarten.jpg)
