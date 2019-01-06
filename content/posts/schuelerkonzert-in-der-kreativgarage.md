@@ -1,7 +1,7 @@
 ---
 title: "Schuelerkonzert in der KreativGarage"
 date: 2016-07-09
-draft: true
+draft: false
 toc: false
 images:
 tags: 

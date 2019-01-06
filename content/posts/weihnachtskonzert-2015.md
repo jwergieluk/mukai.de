@@ -1,7 +1,7 @@
 ---
 title: "Weihnachtskonzert 2015"
 date: 2015-12-13
-draft: true
+draft: false
 toc: false
 images:
 tags: 

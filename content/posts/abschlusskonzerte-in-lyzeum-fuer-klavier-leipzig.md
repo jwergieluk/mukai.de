@@ -1,7 +1,7 @@
 ---
 title: "Abschlusskonzerte in Lyzeum Fuer Klavier Leipzig"
 date: 2015-06-15
-draft: true
+draft: false
 toc: false
 images:
 tags: 
