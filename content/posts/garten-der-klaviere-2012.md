@@ -18,6 +18,6 @@ Klavier: Dennis Russel Davies, Johannes Marian, Rie Mukai, Tim Ovens, Bernhard P
 
 ![](/images/klaviergarten/l2.jpg)
 
-![](/images/klaviergarten/l4.jpg)
-
 ![](/images/klaviergarten/l3.jpg)
+
+![](/images/klaviergarten/l4.jpg)

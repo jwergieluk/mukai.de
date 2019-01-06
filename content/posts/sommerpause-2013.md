@@ -1,5 +1,5 @@
 ---
-title: "Sommerpause 2013"
+title: "Sommerpause"
 date: 2013-07-01
 draft: false
 toc: false

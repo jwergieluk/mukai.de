@@ -1,5 +1,5 @@
 ---
-title: "Abschlusskonzerte in Lyzeum Fuer Klavier Leipzig"
+title: "Abschlusskonzerte im Lyzeum für Klavier Leipzig"
 date: 2015-06-15
 draft: false
 toc: false

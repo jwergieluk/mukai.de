@@ -1,5 +1,5 @@
 ---
-title: "Schuelerkonzert in der KreativGarage"
+title: "Schülerkonzert in der KreativGarage"
 date: 2016-07-09
 draft: false
 toc: false
