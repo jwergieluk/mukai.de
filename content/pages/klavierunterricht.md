@@ -23,7 +23,7 @@ gerne auch dabei beraten.
 
 ## [Preisliste](/pdf/mukai-preisliste-2015.pdf)
 
-![Kostenfreien Probeunterricht vereinbaren](mailto:rie@mukai.de)
+[Kostenfreien Probeunterricht vereinbaren](mailto:rie@mukai.de)
 
 ## Mein Flügel
 
