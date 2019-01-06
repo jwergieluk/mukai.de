@@ -1,6 +1,6 @@
 ---
 title: "Klavier & Querflöte Konzerte mit Miho Miyauchi"
-date: 2019-01-05T14:10:08+01:00
+date: 2017-08-19
 draft: false
 toc: false
 images:
@@ -8,5 +8,7 @@ tags:
   - konzert
 ---
 
-19. und 20. August 2017 
-Kagoshima, Japan
+![Konzerflyer](/images/20170819-20-kagoshima-konzerte.jpg)
+
+Zeit: 19. und 20. August 2017
+Ort: Kagoshima, Japan
