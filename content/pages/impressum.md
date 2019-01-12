@@ -101,7 +101,7 @@ USA übertragen und dort gespeichert.
 
 Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie
 in der Datenschutzerklärung von Google:
-link:https://support.google.com/analytics/answer/6004245?hl#de[https://support.google.com/analytics/answer/6004245?hl#de]
+https://support.google.com/analytics/answer/6004245?hl#de
 
 #### Browser Plugin
 
@@ -113,7 +113,7 @@ der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten
 (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch
 Google verhindern, indem sie das unter dem folgenden Link verfügbare
 Browser-Plugin herunterladen und installieren:
-link:https://tools.google.com/dlpage/gaoptout?hl#de[https://tools.google.com/dlpage/gaoptout?hl#de]
+https://tools.google.com/dlpage/gaoptout?hl#de
 
 #### Widerspruch gegen Datenerfassung
 
