@@ -21,7 +21,7 @@ Teilnehmerzahl kann ein Konzertsaal dafür gemietet werden.
 Wenn Sie mit der Idee spielen, ein eigenes Instrument zu kaufen, kann ich Sie
 gerne auch dabei beraten.
 
-## [Preisliste](/pdf/mukai-preisliste-2015.pdf)
+## [Preisliste 2019](/pdf/mukai-preisliste-2019.pdf)
 
 [Kostenfreien Probeunterricht vereinbaren](mailto:rie@mukai.de)
 
