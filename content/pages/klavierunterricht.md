@@ -1,6 +1,6 @@
 ---
 title: "Klavierunterricht"
-date: 2019-01-05T13:41:30+01:00
+date: 2023-09-17
 draft: false
 ---
 
@@ -21,7 +21,7 @@ Teilnehmerzahl kann ein Konzertsaal dafür gemietet werden.
 Wenn Sie mit der Idee spielen, ein eigenes Instrument zu kaufen, kann ich Sie
 gerne auch dabei beraten.
 
-## [Preisliste 2019](/pdf/mukai-preisliste-2019.pdf)
+## [Preisliste 2023](/pdf/mukai-preisliste-2023.pdf)
 
 [Kostenfreien Probeunterricht vereinbaren](mailto:rie@mukai.de)
 
